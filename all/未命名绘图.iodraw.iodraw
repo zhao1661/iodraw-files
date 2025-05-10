@@ -42,7 +42,7 @@
         <mxCell id="X68cXTj6S-YB22kgVxlh-4" value="修改密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X68cXTj6S-YB22kgVxlh-5" value="充值（大于0.01）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="X68cXTj6S-YB22kgVxlh-5" value="充值" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
